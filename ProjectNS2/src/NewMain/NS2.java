@@ -3,12 +3,12 @@ package NewMain;
 public class NS2 {
 	public static void main(String[] args)
 	{
-		String val = "SE";
-		if (val == "SE") {
-		System.out.println("Software Engineer");
+		String val = "EE";
+		if (val == "EE") {
+		System.out.println("Electrical Engineer");
 		}
 		else {
-			System.out.println("Not Software Engineer");
+			System.out.println("Not Electrical Engineer");
 		}
 	}
 }
